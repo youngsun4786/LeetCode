@@ -20,15 +20,12 @@ int findMaxConsecutiveOnes(int nums[], int size) {
                 consecutiveNum = 0;
             }
         }
-        cout << "This is the max number: " << consecutiveNum <<  endl;
-        cout << "This is temp number: " << temp << endl;
         return max(temp, consecutiveNum);
 }
 
 
 int main() {
     int arr[6] = { 1,1,0,1,1,1 };
-
     int res = findMaxConsecutiveOnes(arr, 6);
     cout << res << endl;
     return 0;
