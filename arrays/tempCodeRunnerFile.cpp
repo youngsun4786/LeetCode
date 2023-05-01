@@ -1,1 +1,2 @@
-        for (int i = 0; i < nums.size(); ++i) {
+    // ptr += 5;
+    // cout << ptr;
