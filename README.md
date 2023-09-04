@@ -24,5 +24,6 @@ May 4th 2023
 
 May 5th 2023
 - More Trees: balanced binary tree, same tree, min depth of tree
+
 May 6th 2023
 - More Trees: subtree of another tree
